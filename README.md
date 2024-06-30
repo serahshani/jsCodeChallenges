@@ -7,10 +7,12 @@
 - C is 50 - 59 
 - D is 40 - 49
 - E is 0 - 39
+
 **Speed Limit Detector**
 - The code checks the assigned speed if it is greater than the speed limit
 - if it is less than the speed limit it prints out "OK"
 - if it is grater than the speed limit it gives out demerit points
+  
 **Net Salary Calculator**
 - The program calculates the net salary for an employee
 - The net salary is determined when all the deductions are deducted from the salary
